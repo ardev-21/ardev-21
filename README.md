@@ -29,7 +29,7 @@
 
 🚀 **Proyectos Destacados:**  
 - 🤖 **Análisis de Basketball Profesional** - "NBAnalytics"  
-- 🦠 **Análisis Estratégico de COVID-19** - "BIOGENESYS"  
+- 🦠 **Análisis Estratégico de COVID-19** - "BioGenesys"  
 - 🚴 **Análisis de Rendimiento y Recuperación de Ventas** - "Adventure Works Cycles"  
 
 ✨ **¿Qué me diferencia?**  
