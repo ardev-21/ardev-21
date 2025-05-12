@@ -72,8 +72,10 @@ Espero con interés que me contactes para que tengamos la oportunidad de llevar 
 
 
 <!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/ariel21/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/ariel21/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=105EBE&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="mailto:ariel2001linares@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
 <!--profile visit count-->
 <div align="center">
