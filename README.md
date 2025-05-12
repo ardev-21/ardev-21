@@ -1,3 +1,10 @@
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=101434508&period=all_times" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=101434508&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Contribution Time Distribution of @ardev-21" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=101434508&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -48,6 +55,17 @@
 <br/>
 <br/>
 
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=101434508" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=101434508&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @ardev-21" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=101434508&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 Espero con interés que me contactes para que tengamos la oportunidad de llevar tus datos al siguiente nivel.  
 
 📫 No dudes en enviarme un mail **ariel2001linares@gmail.com**  
@@ -67,14 +85,3 @@ Espero con interés que me contactes para que tengamos la oportunidad de llevar 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/collection-annually-ranking?collection_id=2&activity=stars" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?collection_id=2&activity=stars&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Repository Annual Ranking in Open Source Database" src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?collection_id=2&activity=stars&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
