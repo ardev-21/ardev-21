@@ -28,27 +28,52 @@
 
 <!--Intro start-->
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<p align="center">
+
+- **Languages**:
+
+  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-42486E?style=for-the-badge&logo=seaborn&logoColor=white)
+
+<br>
+
+- **Softwares and Tools**:
+
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-FDE366?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white")
+  ![MySQL](https://img.shields.io/badge/MySQL-3876A0?style=for-the-badge&logo=mysql-&logoColor=white")
+  ![Power BI](https://img.shields.io/badge/Power%20BI-ED9A02?style=for-the-badge&logo=power%20bi-&logoColor=white")
+
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+
+<br>
+
 🔍 **¿Qué hago?**  
-✅ Ayudo a equipos y empresas a aprovechar el poder de los datos mediante herramientas como:
-- 📊 Power BI  
-- 📈 Excel  
-- 💻 Python  
-- 🛠️ SQL Server
-
 ✅ Desarrollo y formulo reportes estratégicos para facilitar decisiones basadas en datos.  
-✅ Dirijo, organizo y planifico la gestión de información para optimizar procesos.  
+✅ Dirijo, organizo y planifico la gestión de información para optimizar procesos.
 
-🚀 **Proyectos Destacados:**  
-- 🤖 **Análisis de Basketball Profesional** - "NBAnalytics"  
-- 🦠 **Análisis Estratégico de COVID-19** - "BioGenesys"  
-- 🚴 **Análisis de Rendimiento y Recuperación de Ventas** - "Adventure Works Cycles"  
+🚀 **Proyectos Destacados:**
 
-✨ **¿Qué me diferencia?**  
-- 📊 Extraigo información clave y creo dashboards interactivos en Power BI para facilitar la toma de decisiones.  
-- ⚡ Uso Python y SQL para limpiar, analizar y modelar datos, optimizando procesos empresariales.  
+- 🤖 **Análisis de Basketball Profesional** - "NBAnalytics"
+- 🦠 **Análisis Estratégico de COVID-19** - "BioGenesys"
+- 🚴 **Análisis de Rendimiento y Recuperación de Ventas** - "Adventure Works Cycles"
+
+✨ **¿Qué me diferencia?**
+
+- 📊 Extraigo información clave y creo dashboards interactivos en Power BI para facilitar la toma de decisiones.
+- ⚡ Uso Python y SQL para limpiar, analizar y modelar datos, optimizando procesos empresariales.
 
 💡 Una frase que me identifica es:  
-**"Sin análisis de grandes volúmenes de datos, las empresas son ciegos y sordos, vagando hacia fuera sobre la web como ciervos en una autopista."**  
+**"Sin análisis de grandes volúmenes de datos, las empresas son ciegos y sordos, vagando hacia fuera sobre la web como ciervos en una autopista."**
 
 <br/>
 </div>
@@ -62,11 +87,9 @@
   </picture>
 </a>
 
-
-Espero con interés que me contactes para que tengamos la oportunidad de llevar tus datos al siguiente nivel.  
+Espero con interés que me contactes para que tengamos la oportunidad de llevar tus datos al siguiente nivel.
 
 <!--Intro end-->
-
 
 <!--icons and links-->
 <div id="user-content-toc">
@@ -83,7 +106,5 @@ Espero con interés que me contactes para que tengamos la oportunidad de llevar 
 <!--profile visit count-->
 <div align="center">
 
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
