@@ -23,11 +23,6 @@
 - 📈 Excel  
 - 💻 Python  
 - 🛠️ SQL Server
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,discord,github,mysql,py,vscode,sqlite&perline=14" />
-  </a>
-</p>
 
 ✅ Desarrollo y formulo reportes estratégicos para facilitar decisiones basadas en datos.  
 ✅ Dirijo, organizo y planifico la gestión de información para optimizar procesos.  
@@ -73,3 +68,13 @@ Espero con interés que me contactes para que tengamos la oportunidad de llevar 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/collection-annually-ranking?collection_id=2&activity=stars" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?collection_id=2&activity=stars&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Repository Annual Ranking in Open Source Database" src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?collection_id=2&activity=stars&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
