@@ -65,13 +65,16 @@
 
 Espero con interés que me contactes para que tengamos la oportunidad de llevar tus datos al siguiente nivel.  
 
-📫 No dudes en enviarme un mail **ariel2001linares@gmail.com**  
-🏠 🚀 **[Conectemos en LinkedIn](https://www.linkedin.com/in/ariel21/)**  
-
 <!--Intro end-->
 
 
 <!--icons and links-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">No dudes en contactarme</h2></summary>
+  </ul>
+</div>
+
 <a href="https://www.linkedin.com/in/ariel21/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=105EBE&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 <a href="mailto:ariel2001linares@gmail.com" target="_blank">
