@@ -1,7 +1,9 @@
+<div align="center">
+  
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=101434508&period=all_times" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=101434508&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Contribution Time Distribution of @ardev-21" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=101434508&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto" aling="center">
+    <img alt="Contribution Time Distribution of @ardev-21" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=101434508&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
   </picture>
 </a>
 
@@ -51,12 +53,6 @@
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardev-21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ardev-21's Github Stats">
-<br/>
-<br/>
-
-<!-- Copy-paste in your Readme.md file -->
-
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=101434508" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=101434508&image_size=auto&color_scheme=dark" width="771" height="auto">
@@ -64,7 +60,6 @@
   </picture>
 </a>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 Espero con interés que me contactes para que tengamos la oportunidad de llevar tus datos al siguiente nivel.  
 
