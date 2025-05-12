@@ -22,7 +22,12 @@
 - 📊 Power BI  
 - 📈 Excel  
 - 💻 Python  
-- 🛠️ SQL Server  
+- 🛠️ SQL Server
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,discord,github,mysql,py,vscode,sqlite&perline=14" />
+  </a>
+</p>
 
 ✅ Desarrollo y formulo reportes estratégicos para facilitar decisiones basadas en datos.  
 ✅ Dirijo, organizo y planifico la gestión de información para optimizar procesos.  
@@ -59,8 +64,6 @@ Espero con interés que me contactes para que tengamos la oportunidad de llevar 
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/ariel21/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<p align="center">
-<a href="ariel2001linares@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="gmail" height="50" width="50" /></a>
 
 <!--profile visit count-->
 <div align="center">
